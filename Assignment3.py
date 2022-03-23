@@ -34,7 +34,7 @@ def longest_words(file):
     except:
         return "file doesn't exist"
 
-print(longest_words('ex3_text.txt'))
+
 
 
 
